@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.EventNowProject">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.example.EventNowProject.MapsActivity"
+            android:label="@string/title_activity_maps"></activity>
+        <activity android:name="com.example.EventNowProject.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.EventNowProject.ImagesActivity" />
+        <activity android:name="com.example.EventNowProject.Home" />
+        <activity android:name="com.example.EventNowProject.Splashscreen" />
+        <activity android:name="com.example.EventNowProject.Post" />
+        <activity android:name="com.example.EventNowProject.Login" />
+        <activity android:name="com.example.EventNowProject.CreateAccount" />
+        <activity android:name="com.example.EventNowProject.Events" />
+        <activity android:name="com.example.EventNowProject.Movies" />
+        <activity android:name="com.example.EventNowProject.ChildrensMovies" />
+        <activity android:name="com.example.EventNowProject.ComedyMovies" />
+        <activity android:name="com.example.EventNowProject.HorrorMovies" />
+        <activity android:name="com.example.EventNowProject.Concerts" />
+        <activity android:name="com.example.EventNowProject.PopConcerts" />
+        <activity android:name="com.example.EventNowProject.MetalConcerts" />
+        <activity android:name="com.example.EventNowProject.RapConcerts" />
+        <activity android:name="com.example.EventNowProject.UpMovieEvent" />
+        <activity android:name="com.example.EventNowProject.CocoMovieEvent" />
+        <activity android:name="com.example.EventNowProject.MySpyMovieEvent" />
+        <activity android:name="com.example.EventNowProject.DooLittleMovieEvent" />
+        <activity android:name="com.example.EventNowProject.BadBoysForLifeMovieEvent" />
+        <activity android:name="com.example.EventNowProject.CabinMovie" />
+        <activity android:name="com.example.EventNowProject.ItMovie" />
+        <activity android:name="com.example.EventNowProject.ParanormalMovie" />
+        <activity android:name="com.example.EventNowProject.ThyArtEvent" />
+        <activity android:name="com.example.EventNowProject.AmityEvent" />
+        <activity android:name="com.example.EventNowProject.MiceAndMenEvent" />
+        <activity android:name="com.example.EventNowProject.WeekendEvent" />
+        <activity android:name="com.example.EventNowProject.BillieEvent" />
+        <activity android:name="com.example.EventNowProject.HasleyEvent" />
+        <activity android:name="com.example.EventNowProject.SuicideBoysEvent" />
+        <activity android:name="com.example.EventNowProject.RoddyEvent" />
+        <activity android:name="com.example.EventNowProject.DaBabyEvent" />
+        <activity android:name="com.example.EventNowProject.Food" />
+        <activity android:name="com.example.EventNowProject.MexicanEvent" />
+        <activity android:name="com.example.EventNowProject.PrincessEvent" />
+        <activity android:name="com.example.EventNowProject.ChatBot" />
+        <activity android:name="com.example.EventNowProject.ChineseEvent" />
+        <activity android:name="com.example.EventNowProject.VietnameseEvent" />
+
+
+    </application>
+
+</manifest>

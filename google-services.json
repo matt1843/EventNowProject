@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752104066149",
+    "firebase_url": "https://postapp-a7e60.firebaseio.com",
+    "project_id": "postapp-a7e60",
+    "storage_bucket": "postapp-a7e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752104066149:android:1b9d4a13d66eb6a7744a8c",
+        "android_client_info": {
+          "package_name": "com.example.postapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752104066149-7rbs2k383o4fpgdq9sc16ek0717p9a9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCln3OJ9VzyEAZlzhdTARFYzWp3kaR3z6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752104066149-7rbs2k383o4fpgdq9sc16ek0717p9a9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

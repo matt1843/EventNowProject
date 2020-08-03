@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EventNow</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="create_txt">Not a member create account to log in</string>
+    <string name="princess_txt">Princess and The Frog \nA movie that is not to be missed now Showing in a cinema near you\nPerfect for all ages</string>
+    <string name="up_txt">Up \nLearn how a scout and a man become the best of friends now Showing in a cinema near you\nPerfect for all ages</string>
+    <string name="coco_txt">Coco \nNow Showing\nPerfect for all ages\nSee this amazing story of a boy who achieves his goals</string>
+    <string name="myspy_txt">MySpy \nNew Comedy featuring the Rock\n Given a 4/5 rating if you like the Rock come see this</string>
+    <string name="doolittle_txt">Doo little \nA new comedy featuring Robert\nIf you liked him in other movies then dont miss out on this one</string>
+    <string name="bad_txt">Bad Boys For Life \nA new film that is packed with entertainment \nRunning for the next 2 weeks make sure you see it</string>
+    <string name="cabin_txt">Cabin In The Woods \nIf you love a horrors this is perfect for you\nShowing till the end of July</string>
+    <string name="it_txt">IT \nIf you liked the original then this one is not to miss\nShowing for 2 weeks</string>
+    <string name="paranormal_txt">Paranormal Activity \nIf you love ghosts and entities this is perfect for you \nShowing till August</string>
+
+    <string name="weekend_txt">The Weekend \nMaking his second appearance here in ireland one of the most popular singers today\nShow starts at 5</string>
+    <string name="billie_txt">Billie Eillish \nHere to play songs from here first ever album not to be missed very few tickets left do not miss out\nShow starts at 6</string>
+    <string name="hasley_txt">Hasley \nMaking her first appearance here in Ireland definitely not to be missed not many tickets left \nShow starts at 6</string>
+    <string name="thy_txt">Thy Art Is Murder \nMetal band here to play for the second time playing songs from the new album Dear Desolation\nShow starts at 5</string>
+    <string name="amity_txt">The Amity Affliction\nAll from Australia here to play songs from new album Everyone Loves You... Once You Leave Them \nShow starts at 5</string>
+    <string name="miceandmen_txt">Of Mice And Men \nSince new singer joined its the first their time here to play from the latest released album defy \nShow starts 6</string>
+    <string name="suicideboys_txt">SuicideBoys \nTwo friends from New Orleans playing here for the second time two months after the first \nShow starts at 7</string>
+    <string name="roddy_txt">Roddy Rich \nLatest album just released makes his first appearance for the first time ever here \nShow starts at 6.30</string>
+    <string name="dababy_txt">DaBaby \nJust released a new album and is now on tour here for the second time \nShow starts at 5.30</string>
+
+    <string name="mexican_txt">Tacos \nLearn to make tacos today be here for 5\nEvent will last 2 hours </string>
+    <string name="vietnamese_txt">Pho \nLearn how to make pho do not miss out\nEvent starts at 6</string>
+    <string name="chinese_txt">ChowMain \nLearn how to cook chowmein  \nEvent will start at 5.30</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
